@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "swift-sdk",
+  "versions": [
+    {
+      "commit": "a0ae212ebf6eab5f754c3129608bc5557637e605",
+      "tag": "main",
+      "parsed_at": "2026-10-09T10:10:54.061963+00:00"
+    }
+  ]
+}
