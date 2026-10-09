@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/swift-sdk/commit/a0ae212ebf6eab5f754c3129608bc5557637e605",
       "git:hexsha": "a0ae212ebf6eab5f754c3129608bc5557637e605",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.12.1"
     },
     {
