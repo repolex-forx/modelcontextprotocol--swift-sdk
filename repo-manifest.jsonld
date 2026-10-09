@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/swift-sdk/commit/a0ae212ebf6eab5f754c3129608bc5557637e605",
       "git:hexsha": "a0ae212ebf6eab5f754c3129608bc5557637e605",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.12.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.12.1",
+      "repolex:parsedAt": "2026-10-09T10:10:54.061492+00:00"
     },
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/swift-sdk/commit/224707cdbaa0a8486d5d3a4c3094f5a82e8b401d",
